@@ -1,2 +1,5 @@
 *.tar.xz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.qcow2 filter=lfs diff=lfs merge=lfs -text
+*.bzImage filter=lfs diff=lfs merge=lfs -text
+lf filter=lfs diff=lfs merge=lfs -text
