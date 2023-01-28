@@ -1,0 +1,16 @@
+<svg width="469" height="208" viewBox="0 0 469 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-52.2087 21.5835L126.541 -81.6179L126.541 124.785L-52.2087 21.5835Z" fill="#1038C7"/>
+<g style="mix-blend-mode:multiply">
+<path d="M339.146 21.5835L160.396 124.785L160.396 -81.6179L339.146 21.5835Z" fill="#E0DBF0"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect x="216.111" y="-89.4581" width="48.75" height="264.825" transform="rotate(44.1211 216.111 -89.4581)" fill="#6EB1EE"/>
+</g>
+<circle cx="75.5333" cy="75.5333" r="75.5333" transform="matrix(0.95937 0.282151 -0.251819 0.967774 297.208 -54.9967)" fill="#1038C7"/>
+<g style="mix-blend-mode:multiply">
+<circle cx="75.5333" cy="75.5333" r="75.5333" transform="matrix(0.95937 0.282151 -0.251819 0.967774 365.411 -34.938)" fill="#6EB1EE"/>
+</g>
+<g style="mix-blend-mode:multiply">
+<rect width="26.6588" height="290.285" transform="matrix(-0.251819 0.967774 -0.95937 -0.282151 523.091 76.2422)" fill="#D3D1E9"/>
+</g>
+</svg>
