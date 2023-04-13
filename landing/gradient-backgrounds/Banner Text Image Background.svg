@@ -11,16 +11,16 @@
 <feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_5696_1736"/>
 </filter>
 <linearGradient id="paint0_linear_5696_1736" x1="281" y1="174" x2="398.5" y2="546.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#1A1C27"/>
-<stop offset="0.494792" stop-color="#738DD7"/>
-<stop offset="1" stop-color="#1A1C27"/>
+<stop stop-color="#151515"/>
+<stop offset="0.494792" stop-color="#173EAD"/>
+<stop offset="1" stop-color="#151515"/>
 </linearGradient>
 <linearGradient id="paint1_linear_5696_1736" x1="955.5" y1="1.42559e-05" x2="676.76" y2="361.175" gradientUnits="userSpaceOnUse">
-<stop stop-color="#1A1C27"/>
+<stop stop-color="#151515"/>
 <stop offset="0.505208" stop-color="#1A1C27" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint2_linear_5696_1736" x1="886" y1="599" x2="621.877" y2="898.596" gradientUnits="userSpaceOnUse">
-<stop stop-color="#1A1C27"/>
+<stop stop-color="#151515"/>
 <stop offset="1" stop-color="#1A1C27" stop-opacity="0"/>
 </linearGradient>
 </defs>
